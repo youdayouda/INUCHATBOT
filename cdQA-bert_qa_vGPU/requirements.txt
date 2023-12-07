@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+joblib
+matplotlib
+pytorch-pretrained-bert
+beautifulsoup4
+lxml
+tqdm
+prettytable
+wget
+PyGithub
+flask

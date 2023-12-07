@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cdqa
+Version: 0.0.1
+Summary: An end-to-end closed-domain question answering system with BERT and classic IR methods 📚
+Home-page: https://github.com/fmikaelian/cdQA
+Author: Félix MIKAELIAN
+License: MIT
+Keywords: reading comprehension question answering deep learning natural language processing information retrieval bert
+License-File: LICENSE
